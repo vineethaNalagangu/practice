@@ -1,0 +1,6 @@
+2021/12/23-10:24:03.022 9e8 Reusing MANIFEST leveldb/MANIFEST-000001
+2021/12/23-10:24:03.023 9e8 Recovering log #4
+2021/12/23-10:24:03.023 9e8 Reusing old log leveldb/000004.log 
+2021/12/23-10:28:25.362 d5c Level-0 table #8: started
+2021/12/23-10:28:25.376 d5c Level-0 table #8: 21195 bytes OK
+2021/12/23-10:28:25.378 d5c Delete type=0 #4

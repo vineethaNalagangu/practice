@@ -1,0 +1,9 @@
+2021/12/22-11:40:43.511 1720 Reusing MANIFEST /home/vineethanalagangu/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-11:41:28.969 172d Current memtable full; waiting...
+2021/12/22-11:41:28.969 1764 Level-0 table #5: started
+2021/12/22-11:41:28.971 1764 Level-0 table #5: 104341 bytes OK
+2021/12/22-11:41:28.973 1764 Delete type=0 #3
+2021/12/22-11:41:28.973 1764 Level-0 table #7: started
+2021/12/22-11:41:28.973 1764 Level-0 table #7: 0 bytes OK
+2021/12/22-11:41:28.975 1764 Delete type=0 #4
+2021/12/22-11:41:28.975 1764 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

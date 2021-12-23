@@ -89,3 +89,46 @@ git remote add origin https://github.com/vineethaNalagangu/vineetha.git
 git status
 git branch -M master
 git branch -M main
+git init
+git add .
+mkdir resource
+touch r1 r2 r3
+git add .
+git commit -m "resource dir"
+clear
+git remote add origin https://github.com/vineethaNalagangu/vineetha.git
+git branch -M main
+git push -u origin main
+clear
+ls
+git add .
+git commit -m "first push"
+git remote add origin https://github.com/vineethaNalagangu/vineetha.git
+git branch -M main
+git push -u origin main
+clear
+git push -u origin main
+git clone https://github.com/vineethaNalagangu/vineetha.git
+ls
+vi r1
+git add .
+git commit -m "r1 with data"
+git push
+top
+tail
+grep t r1
+touch v1
+vi v1
+tail v1
+head 3 v1
+head v1
+vi v1
+tail v1
+head v1
+rm v1
+ls
+clear
+touch p1 p2 p3
+git add .
+git commit -m "practice files"
+git remote add origin https://github.com/vineethaNalagangu/practice.git

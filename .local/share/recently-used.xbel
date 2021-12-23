@@ -55,4 +55,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/vineethanalagangu/Documents/linux%20commands" added="2021-12-23T10:09:06Z" modified="2021-12-23T10:09:06Z" visited="2021-12-23T10:09:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2021-12-23T10:09:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vineethanalagangu/Documents/linux%20commands.odt" added="2021-12-23T10:09:07Z" modified="2021-12-23T10:30:13Z" visited="2021-12-23T10:09:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2021-12-23T10:30:13Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

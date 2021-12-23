@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1640244322,,"wq"
+|2,0,1640253975,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,38 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/vineetha/f1
-|4,48,1,16,1640244322,"~/vineetha/f1"
-'1  1  25  ~/vineetha/first
-|4,49,1,25,1640243724,"~/vineetha/first"
-'2  1  20  ~/v1
-|4,50,1,20,1640240113,"~/v1"
+'0  1  49  ~/r1
+|4,48,1,49,1640253975,"~/r1"
+'1  1  16  ~/vineetha/f1
+|4,49,1,16,1640244322,"~/vineetha/f1"
+'2  1  25  ~/vineetha/first
+|4,50,1,25,1640243724,"~/vineetha/first"
+'3  1  20  ~/v1
+|4,51,1,20,1640240113,"~/v1"
 
 # Jumplist (newest first):
+-'  1  49  ~/r1
+|4,39,1,49,1640253975,"~/r1"
+-'  1  16  ~/vineetha/f1
+|4,39,1,16,1640244322,"~/vineetha/f1"
 -'  1  16  ~/vineetha/f1
 |4,39,1,16,1640244322,"~/vineetha/f1"
 -'  1  25  ~/vineetha/first
 |4,39,1,25,1640243724,"~/vineetha/first"
 -'  1  25  ~/vineetha/first
 |4,39,1,25,1640243724,"~/vineetha/first"
+-'  1  25  ~/vineetha/first
+|4,39,1,25,1640243724,"~/vineetha/first"
+-'  1  25  ~/vineetha/first
+|4,39,1,25,1640243724,"~/vineetha/first"
+-'  1  20  ~/v1
+|4,39,1,20,1640240113,"~/v1"
+-'  1  20  ~/v1
+|4,39,1,20,1640240113,"~/v1"
+-'  1  20  ~/v1
+|4,39,1,20,1640240113,"~/v1"
+-'  1  20  ~/v1
+|4,39,1,20,1640240113,"~/v1"
 -'  1  20  ~/v1
 |4,39,1,20,1640240113,"~/v1"
 -'  1  20  ~/v1
@@ -49,6 +67,13 @@
 |4,39,1,20,1640240113,"~/v1"
 
 # History of marks within files (newest to oldest):
+
+> ~/r1
+	*	1640253973	0
+	"	1	49
+	^	1	50
+	.	1	49
+	+	1	49
 
 > ~/vineetha/f1
 	*	1640244320	0

@@ -41,4 +41,18 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/vineethanalagangu/Pictures/Screenshot%20from%202021-12-23%2015-16-44.png" added="2021-12-23T09:46:52Z" modified="2021-12-23T09:49:34Z" visited="2021-12-23T09:46:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2021-12-23T09:46:52Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-12-23T09:49:34Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -5,10 +5,10 @@
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="190" last-seen="1640254303"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1640238651"/>
     <application id="eog.desktop" open-window-count="0" score="1" last-seen="1640252980"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="3021" last-seen="1640257612"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="3026" last-seen="1640257734"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2121" last-seen="1640257635"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2145" last-seen="1640257874"/>
     <application id="gnome-initial-setup.desktop" open-window-count="0" score="2" last-seen="1640069249"/>
-    <application id="libreoffice-writer.desktop" open-window-count="2" score="365" last-seen="1640255143"/>
+    <application id="libreoffice-writer.desktop" open-window-count="2" score="367" last-seen="1640257863"/>
   </context>
 </application-state>
